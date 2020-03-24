@@ -97,5 +97,20 @@ ul.footer-menu li {
 }
 .mid-title {
   color: white;
-  padding-top: 30px;
+  padding: 30px 30px;
+}
+.mid-image {
+  margin-left: 150px;
+}
+.mid-image1 {
+  float: left;
+}
+.mid-image2 {
+  float: left;
+}
+.text-contents {
+  color: white;
+}
+.mid-image3 {
+  float: left;
 }
