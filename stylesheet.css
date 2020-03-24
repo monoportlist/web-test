@@ -26,6 +26,7 @@ header .header-title {
   display: inline-block;
   margin: 0 30px;
 }
+
 footer{
     width: 100%;
     height: 100px;
@@ -34,18 +35,20 @@ footer{
     text-align: center;
 }
 ul.footer-menu li {
-display: inline;
+  display: inline;
 }
+
 .top-wrapper h1 {
   font-size: 50px;
   color: white;
   opacity: 0.8;
 }
 .top-container {
-  padding: 100px 0 50px 0;
+  padding: 300px 0 200px 0;
   text-align: center;
-  background-image: url(https://publicdomainq.net/images/201805/16s/publicdomainq-0022124hcx.jpg);
   letter-spacing: 1px;
+  background-image: url(https://publicdomainq.net/images/201805/16s/publicdomainq-0022124hcx.jpg);
+  background-size: cover;
 }
 .top-container p {
   font-size: 30px;
@@ -62,6 +65,7 @@ display: inline;
   margin-bottom: 5px;
   opacity: 0.9;
   border-radius: 10px;
+  transition: all 0.5s;
 }
 .btn:hover {
   opacity: 0.2;
@@ -85,4 +89,13 @@ display: inline;
 }
 .password:hover {
   opacity: 0.2;
+}
+.mid-wrapper {
+  background-color: rgba(0, 0, 0);
+  height: 500px;
+  text-align: center;
+}
+.mid-title {
+  color: white;
+  padding-top: 30px;
 }
