@@ -152,3 +152,18 @@ ul.footer-menu li {
   position: relative;
   top: 7px;
 }
+.bottom-form {
+  color: white;
+  margin-top: 30px;
+}
+.bottom-textarea {
+  width: 350px;
+  height: 50px;
+  margin-top: 5px;
+  padding: 10px;
+  font-size: 18px;
+}
+.bottom-input:hover {
+  background-color: rgba(0, 255, 10, 0.5);
+  cursor: pointer;
+}
