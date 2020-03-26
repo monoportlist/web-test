@@ -159,9 +159,14 @@ ul.footer-menu li {
 .bottom-textarea {
   width: 350px;
   height: 50px;
-  margin-top: 5px;
+  margin: 5px 0 0 100px;
   padding: 10px;
   font-size: 18px;
+  position: relative;
+}
+.bottom-input {
+  padding: 3px;
+  position: relative; bottom: 8px;
 }
 .bottom-input:hover {
   background-color: rgba(0, 255, 10, 0.5);
