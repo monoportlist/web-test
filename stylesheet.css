@@ -1,5 +1,6 @@
 * {
   margin: 0; padding:0;
+  box-sizing: border-box;
 }
 header {
   width: 100%;
@@ -120,7 +121,7 @@ ul.footer-menu li {
   color: white;
 }
 .bottom-wrapper{
-  height: 300px;
+  height: 350px;
   background-color: rgba(0, 0, 0, 0.95);
   text-align: center;
   padding-top: 50px;
